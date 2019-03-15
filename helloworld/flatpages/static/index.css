@@ -22,3 +22,8 @@ table tr td {
 table {
 	width: 100%;
 }
+
+img {
+	height: 30px;
+	width: auto;
+}
